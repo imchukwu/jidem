@@ -16,7 +16,7 @@ const Footer = () => {
               className="h-20 mb-4 bg-white rounded-full p-1"
             />
             <p className="text-sm mb-4">
-              JIDEM Foundation is committed to promoting the well-being of children with a special focus on disabled children.
+              JIDEM Foundation is committed to promoting the well-being of children with a special focus on children with disabilities.
             </p>
             <div className="flex items-center space-x-4">
               <a href="#" className="hover:text-jidem-yellow" aria-label="Facebook">
@@ -63,10 +63,10 @@ const Footer = () => {
                 <Mail size={20} />
                 <span>info@jidemfoundation.org</span>
               </li>
-              <li className="flex items-center space-x-3">
+              {/* <li className="flex items-center space-x-3">
                 <Globe size={20} />
                 <span>RC: 114515 | Registered: July 13, 2018</span>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>

@@ -91,7 +91,7 @@ const About = () => {
         </div>
         
         {/* Registration Info */}
-        <div className="bg-gray-100 p-8 rounded-lg mb-16">
+        {/* <div className="bg-gray-100 p-8 rounded-lg mb-16">
           <h3 className="text-2xl font-bold mb-4 text-jidem-green">Registration Information</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
@@ -102,10 +102,10 @@ const About = () => {
             <div>
               <p><strong>Registration Date:</strong> July 13, 2018</p>
               <p><strong>Business Address:</strong> 54 Zik's Avenue, Fegge, Onitsha</p>
-              <p><strong>Official Objective:</strong> To promote the well-being of children with focus on disabled children</p>
+              <p><strong>Official Objective:</strong> To promote the well-being of children with focus on children with disabilities</p>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
       
       <Footer />
